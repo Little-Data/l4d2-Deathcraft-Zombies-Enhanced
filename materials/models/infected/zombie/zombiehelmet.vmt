@@ -1,0 +1,37 @@
+"VertexLitGeneric"
+{
+       "$basetexture" "models\infected\zombie\zombiehelmet"
+	"$nocull" 1
+	"$alphatest" 1
+	"$halflambert" 1
+	"$model" 1
+$allowdiffusemodulation 0
+$blendtintbybasealpha 0
+	
+	"$phong" "1"
+	//"$phongexponenttexture" "models\infected\zombie\blockdude_exponent"
+	"$phongexponent" "15"
+	
+	"$phongboost" "7"	
+	//"$lightwarptexture" "models\infected\zombie\blockdude_lightwarp"
+	"$phongfresnelranges"	"[0.04 0.4 0.5]"
+	
+	//"$rimlight"	"1"
+	//"$rimlightexponent" "4"
+
+vertexlitgeneric_dx8
+{
+$envmaptint "[.05 .03 .01]"
+$envmap env_cubemap
+	$envmapmask "models\infected\zombie\zombiehelmet"
+}
+vertexlitgeneric_HDR_dx8
+{
+$envmaptint "[.22 .12 .07]"
+$envmap env_cubemap
+	$envmapmask "models\infected\zombie\zombiehelmet"
+}
+$halflambert 1
+$phong 0
+"GPU>=2?$phong" 1
+}

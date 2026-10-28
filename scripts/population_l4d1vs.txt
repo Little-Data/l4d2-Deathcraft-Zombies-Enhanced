@@ -1,0 +1,1524 @@
+Population
+{
+	default
+	{
+		common_male01                     	20
+		common_female01                   	16
+		common_police_male01              	10
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_suit                  	7
+		common_male_tanktop_overalls_alt  	3
+		common_male_tanktop_overalls_rain 	3
+		common_male_tanktop_overalls_swamp	3
+		common_male_tshirt_cargos         	3
+		common_male_tshirt_cargos_swamp   	3
+		common_patient_male01             	3
+		common_patient_male01_l4d2        	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_tshirt_cargos_alt     	4
+	}
+
+	defaultcemetery
+	{
+		common_male01                     	17
+		common_female01                   	16
+		common_police_male01              	10
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_suit                  	7
+		common_surgeon_male01             	3
+		common_tsaagent_male01            	3
+		common_female01_suit              	3
+		common_female_baggagehandler_01   	3
+		common_female_formal              	3
+		common_female_nurse01             	3
+		common_female_rural01_alt         	3
+		common_female_tanktop_jeans       	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_female_tanktop_jeans_alt   	4
+	}
+
+	defaultmilltown
+	{
+		common_male01                     	16
+		common_female01                   	14
+		common_police_male01              	7
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_suit                  	10
+		common_female_tanktop_jeans_rain  	3
+		common_female_tanktop_jeans_swamp 	3
+		common_female_tshirt_skirt        	3
+		common_female_tshirt_skirt_rain   	3
+		common_female_tshirt_skirt_swamp  	3
+		common_male02                     	3
+		common_male_baggagehandler_01     	3
+		common_male_baggagehandler_02     	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male02_holiday             	3
+		common_female_tshirt_skirt_alt    	4
+	}
+
+	defaultmilltown_mob
+	{
+		common_male01                     	14
+		common_female01                   	14
+		common_police_male01              	7
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_suit                  	10
+		common_male_biker                 	3
+		common_male_dressshirt_jeans      	3
+		common_male_formal                	3
+		common_male_parachutist           	3
+		common_male_pilot                 	3
+		common_male_polo_jeans            	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_male_biker_leather         	3
+		common_worker_male01_helmet       	4
+		common_male_pilot_tvjli           	4
+		common_male_dressshirt_jeans_alt  	4
+		common_male_polo_jeans_alt        	4
+	}
+
+	defaultsugarmill
+	{
+		common_male_rural01               	24
+		common_female_rural01             	11
+		common_police_male01              	6
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_riot_iron             	3
+		common_male_roadcrew              	3
+		common_male_roadcrew_l4d1         	3
+		common_male_roadcrew_rain         	3
+		common_male_tanktop_jeans         	3
+		common_male_tanktop_jeans_rain    	3
+		common_male_tanktop_jeans_swamp   	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_roadcrew_hivis        	4
+		common_male_tanktop_jeans_worn    	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	defaultsugarmill_mob
+	{
+		common_male_rural01               	26
+		common_female_rural01             	10
+		common_police_male01              	5
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_tanktop_overalls      	3
+		common_male_tanktop_overalls_rain 	3
+		common_male_tanktop_overalls_swamp	3
+		common_male_tshirt_cargos         	3
+		common_male_tshirt_cargos_swamp   	3
+		common_patient_male01             	3
+		common_patient_male01_l4d2        	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_tshirt_cargos_alt     	4
+		common_male_tanktop_overalls_alt  	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	defaultmilltown_rain
+	{
+		common_male01                     	18
+		common_female01                   	15
+		common_police_male01              	7
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_suit                  	10
+		common_surgeon_male01             	3
+		common_tsaagent_male01            	3
+		common_female01_suit              	3
+		common_female_baggagehandler_01   	3
+		common_female_formal              	3
+		common_female_nurse01             	3
+		common_female_rural01_alt         	3
+		common_female_tanktop_jeans       	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_female_tanktop_jeans_alt   	4
+	}
+
+	defaultmilltown_rain_mob
+	{
+		common_male01                     	16
+		common_female01                   	14
+		common_police_male01              	7
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_suit                  	10
+		common_female_tanktop_jeans_alt   	3
+		common_female_tanktop_jeans_rain  	3
+		common_female_tanktop_jeans_swamp 	3
+		common_female_tshirt_skirt        	3
+		common_female_tshirt_skirt_rain   	3
+		common_female_tshirt_skirt_swamp  	3
+		common_male02                     	3
+		common_male_baggagehandler_01     	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male02_holiday             	3
+		common_female_tshirt_skirt_alt    	4
+	}
+
+	defaultsugarmill_rain
+	{
+		common_male_rural01               	21
+		common_female_rural01             	9
+		common_police_male01              	4
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_baggagehandler_02     	3
+		common_male_biker                 	3
+		common_male_dressshirt_jeans      	3
+		common_male_formal                	3
+		common_male_parachutist           	3
+		common_male_pilot                 	3
+		common_male_polo_jeans            	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_male_biker_leather         	3
+		common_worker_male01_helmet       	4
+		common_male_pilot_tvjli           	4
+		common_male_dressshirt_jeans_alt  	4
+		common_male_polo_jeans_alt        	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	defaultsugarmill_rain_mob
+	{
+		common_male_rural01               	23
+		common_female_rural01             	10
+		common_police_male01              	5
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_polo_jeans_alt        	3
+		common_male_riot_iron             	3
+		common_male_roadcrew              	3
+		common_male_roadcrew_l4d1         	3
+		common_male_roadcrew_rain         	3
+		common_male_tanktop_jeans         	3
+		common_male_tanktop_jeans_rain    	3
+		common_male_tanktop_jeans_swamp   	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_roadcrew_hivis        	4
+		common_male_tanktop_jeans_worn    	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	defaultswamp
+	{
+		common_male_rural01               	26
+		common_female_rural01             	10
+		common_police_male01              	5
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_tanktop_jeans_worn    	3
+		common_male_tanktop_overalls      	3
+		common_male_tanktop_overalls_rain 	3
+		common_male_tanktop_overalls_swamp	3
+		common_male_tshirt_cargos         	3
+		common_male_tshirt_cargos_swamp   	3
+		common_patient_male01             	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_tshirt_cargos_alt     	4
+		common_male_tanktop_overalls_alt  	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	deepswamp
+	{
+		common_male_rural01               	30
+		common_female_rural01             	12
+		common_police_male01              	7
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_patient_male01_l4d2        	3
+		common_surgeon_male01             	3
+		common_tsaagent_male01            	3
+		common_female01_suit              	3
+		common_female_baggagehandler_01   	3
+		common_female_formal              	3
+		common_female_nurse01             	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	deepswamp_parachutist
+	{
+		common_male_rural01               	23
+		common_female_rural01             	10
+		common_police_male01              	5
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_female_tanktop_jeans       	3
+		common_female_tanktop_jeans_rain  	3
+		common_female_tanktop_jeans_swamp 	3
+		common_female_tshirt_skirt        	3
+		common_female_tshirt_skirt_rain   	3
+		common_female_tshirt_skirt_swamp  	3
+		common_male02                     	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male02_holiday             	3
+		common_female_tanktop_jeans_alt   	4
+		common_female_tshirt_skirt_alt    	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	test_common_male_suit
+	{
+		common_male_suit                  	100
+	}
+
+	defaulturban
+	{
+		common_male01                     	15
+		common_female01                   	14
+		common_police_male01              	7
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_suit                  	10
+		common_male_baggagehandler_01     	3
+		common_male_baggagehandler_02     	3
+		common_male_biker                 	3
+		common_male_dressshirt_jeans      	3
+		common_male_formal                	3
+		common_male_parachutist           	3
+		common_male_pilot                 	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_male_biker_leather         	3
+		common_worker_male01_helmet       	4
+		common_male_pilot_tvjli           	4
+		common_male_dressshirt_jeans_alt  	4
+	}
+
+	police
+	{
+		common_male01                     	10
+		common_female01                   	12
+		common_military_male01            	7
+		common_police_male01              	31
+		common_male_polo_jeans            	3
+		common_male_riot_iron             	3
+		common_male_roadcrew              	3
+		common_male_roadcrew_l4d1         	3
+		common_male_roadcrew_rain         	3
+		common_male_rural01_alt           	3
+		common_male_tanktop_jeans         	3
+		common_male_tanktop_jeans_rain    	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_male_roadcrew_hivis        	4
+		common_male_tanktop_jeans_worn    	4
+		common_male_polo_jeans_alt        	4
+	}
+
+	maintenance
+	{
+		common_male01                     	16
+		common_female01                   	13
+		common_military_male01            	13
+		common_worker_male01              	23
+		common_male_tanktop_jeans_swamp   	3
+		common_male_tanktop_jeans_worn    	3
+		common_male_tanktop_overalls      	3
+		common_male_tanktop_overalls_rain 	3
+		common_male_tanktop_overalls_swamp	3
+		common_male_tshirt_cargos         	3
+		common_male_tshirt_cargos_swamp   	3
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_tshirt_cargos_alt     	4
+		common_male_tanktop_overalls_alt  	4
+	}
+
+	hospitalgrounds
+	{
+		common_male01                     	14
+		common_female01                   	14
+		common_police_male01              	10
+		common_military_male01            	10
+		common_worker_male01              	10
+		common_male_suit                  	10
+		common_patient_male01             	3
+		common_patient_male01_l4d2        	3
+		common_surgeon_male01             	3
+		common_tsaagent_male01            	3
+		common_female01_suit              	3
+		common_female_baggagehandler_01   	3
+		common_female_formal              	3
+		common_female_nurse01             	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+	}
+
+	hospital
+	{
+		common_male01                     	8
+		common_patient_male01             	25
+		common_worker_male01              	10
+		common_female_nurse01             	11
+		common_surgeon_male01             	7
+		common_female_rural01_alt         	3
+		common_female_tanktop_jeans       	3
+		common_female_tanktop_jeans_rain  	3
+		common_female_tanktop_jeans_swamp 	3
+		common_female_tshirt_skirt        	3
+		common_female_tshirt_skirt_rain   	3
+		common_female_tshirt_skirt_swamp  	3
+		common_male02                     	3
+		common_worker_male01_helmet       	4
+		common_male02_holiday             	3
+		common_female_tanktop_jeans_alt   	4
+		common_female_tshirt_skirt_alt    	4
+	}
+
+	hospitalconstruction
+	{
+		common_patient_male01             	12
+		common_worker_male01              	18
+		common_female_nurse01             	12
+		common_surgeon_male01             	7
+		common_male01                     	12
+		common_male02_holiday             	3
+		common_male_baggagehandler_01     	3
+		common_male_baggagehandler_02     	3
+		common_male_biker                 	3
+		common_male_dressshirt_jeans      	3
+		common_male_formal                	3
+		common_male_parachutist           	3
+		common_male_pilot                 	3
+		common_male_biker_leather         	3
+		common_worker_male01_helmet       	4
+		common_male_pilot_tvjli           	4
+		common_male_dressshirt_jeans_alt  	4
+	}
+
+	airport
+	{
+		common_female01                   	9
+		common_male_suit                  	11
+		common_worker_male01              	9
+		common_male_baggagehandler_01     	10
+		common_tsaagent_male01            	10
+		common_male_pilot                 	10
+		common_male_polo_jeans            	3
+		common_male_riot_iron             	3
+		common_male_roadcrew              	3
+		common_male_roadcrew_l4d1         	3
+		common_male_roadcrew_rain         	3
+		common_male_rural01_alt           	3
+		common_male_tanktop_jeans         	3
+		common_worker_male01_helmet       	4
+		common_male_roadcrew_hivis        	4
+		common_male_pilot_tvjli           	4
+		common_male_tanktop_jeans_worn    	4
+		common_male_polo_jeans_alt        	4
+	}
+
+	airportfinale
+	{
+		common_female01                   	4
+		common_male_suit                  	7
+		common_worker_male01              	7
+		common_male_baggagehandler_01     	18
+		common_tsaagent_male01            	12
+		common_male_pilot                 	12
+		common_male_tanktop_jeans_rain    	3
+		common_male_tanktop_jeans_swamp   	3
+		common_male_tanktop_jeans_worn    	3
+		common_male_tanktop_overalls      	3
+		common_male_tanktop_overalls_rain 	3
+		common_male_tanktop_overalls_swamp	3
+		common_male_tshirt_cargos         	3
+		common_male_tshirt_cargos_swamp   	3
+		common_worker_male01_helmet       	4
+		common_male_pilot_tvjli           	4
+		common_male_tshirt_cargos_alt     	4
+		common_male_tanktop_overalls_alt  	4
+	}
+
+	defaultrural
+	{
+		common_male_rural01               	32
+		common_female_rural01             	12
+		common_police_male01              	7
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_patient_male01_l4d2        	3
+		common_female01_suit              	3
+		common_female_baggagehandler_01   	3
+		common_female_formal              	3
+		common_female_tanktop_jeans       	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_female_tanktop_jeans_alt   	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	crescentcity
+	{
+		common_male01                     	14
+		common_female01                   	13
+		common_police_male01              	7
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_suit                  	10
+		common_female_tanktop_jeans_rain  	3
+		common_female_tanktop_jeans_swamp 	3
+		common_female_tshirt_skirt        	3
+		common_female_tshirt_skirt_rain   	3
+		common_female_tshirt_skirt_swamp  	3
+		common_male02                     	3
+		common_male_baggagehandler_02     	3
+		common_male_biker                 	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_male_biker_leather         	3
+		common_worker_male01_helmet       	4
+		common_male02_holiday             	3
+		common_female_tshirt_skirt_alt    	4
+	}
+
+	busstation
+	{
+		common_male01                     	13
+		common_female01                   	12
+		common_police_male01              	7
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_suit                  	10
+		common_male_biker_leather         	3
+		common_male_dressshirt_jeans      	3
+		common_male_formal                	3
+		common_male_parachutist           	3
+		common_male_pilot_tvjli           	3
+		common_male_polo_jeans            	3
+		common_male_riot_iron             	3
+		common_male_roadcrew              	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_roadcrew_hivis        	4
+		common_male_dressshirt_jeans_alt  	4
+		common_male_polo_jeans_alt        	4
+	}
+
+	frenchquarter
+	{
+		common_male01                     	15
+		common_female01                   	14
+		common_police_male01              	7
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_suit                  	10
+		common_male_roadcrew_hivis        	3
+		common_male_roadcrew_l4d1         	3
+		common_male_roadcrew_rain         	3
+		common_male_rural01_alt           	3
+		common_male_tanktop_jeans         	3
+		common_male_tanktop_jeans_rain    	3
+		common_male_tanktop_jeans_swamp   	3
+		common_male_tanktop_overalls      	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_tanktop_jeans_worn    	4
+		common_male_tanktop_overalls_alt  	4
+	}
+
+	ceda
+	{
+		common_male01                     	21
+		common_female01                   	18
+		common_police_male01              	7
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_suit                  	10
+		common_male_tanktop_overalls_rain 	3
+		common_male_tanktop_overalls_swamp	3
+		common_male_tshirt_cargos         	3
+		common_male_tshirt_cargos_swamp   	3
+		common_patient_male01_l4d2        	3
+		common_female01_suit              	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_tshirt_cargos_alt     	4
+	}
+
+	c1streets
+	{
+		common_male01                     	15
+		common_female01                   	14
+		common_police_male01              	7
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_suit                  	10
+		common_female_baggagehandler_01   	3
+		common_female_formal              	3
+		common_female_rural01_alt         	3
+		common_female_tanktop_jeans       	3
+		common_female_tanktop_jeans_rain  	3
+		common_female_tanktop_jeans_swamp 	3
+		common_female_tshirt_skirt        	3
+		common_female_tshirt_skirt_rain   	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_female_tanktop_jeans_alt   	4
+		common_female_tshirt_skirt_alt    	4
+	}
+
+	whisperingoaks
+	{
+		common_male01                     	12
+		common_female01                   	14
+		common_military_male01            	7
+		common_police_male01              	32
+		common_female_tshirt_skirt_swamp  	3
+		common_male02                     	3
+		common_male_baggagehandler_02     	3
+		common_male_biker                 	3
+		common_male_dressshirt_jeans      	3
+		common_male_formal                	3
+		common_male_parachutist           	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_male_biker_leather         	3
+		common_male02_holiday             	3
+		common_male_dressshirt_jeans_alt  	4
+	}
+
+	gatorpark
+	{
+		common_male01                     	10
+		common_female01                   	12
+		common_military_male01            	7
+		common_police_male01              	31
+		common_male_pilot_tvjli           	3
+		common_male_polo_jeans            	3
+		common_male_riot_iron             	3
+		common_male_roadcrew              	3
+		common_male_roadcrew_l4d1         	3
+		common_male_roadcrew_rain         	3
+		common_male_rural01_alt           	3
+		common_male_tanktop_jeans         	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_male_roadcrew_hivis        	4
+		common_male_tanktop_jeans_worn    	4
+		common_male_polo_jeans_alt        	4
+	}
+
+	riverbank
+	{
+		survivor_biker_light              	1
+		survivor_teenangst_light          	1
+		common_male_rural01               	25
+		common_female_rural01             	10
+		common_military_male01            	5
+		common_worker_male01              	12
+		common_male_tanktop_jeans_rain    	3
+		common_male_tanktop_jeans_swamp   	3
+		common_male_tanktop_jeans_worn    	3
+		common_male_tanktop_overalls      	3
+		common_male_tanktop_overalls_rain 	3
+		common_male_tanktop_overalls_swamp	3
+		common_male_tshirt_cargos         	3
+		common_male_tshirt_cargos_swamp   	3
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_tshirt_cargos_alt     	4
+		common_male_tanktop_overalls_alt  	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	riverbank_police
+	{
+		common_male01                     	17
+		common_female01                   	14
+		common_military_male01            	7
+		common_police_male01              	34
+		common_patient_male01             	3
+		common_patient_male01_l4d2        	3
+		common_surgeon_male01             	3
+		common_tsaagent_male01            	3
+		common_worker_male01_helmet       	3
+		common_female01_suit              	3
+		common_female_baggagehandler_01   	3
+		common_female_formal              	3
+		common_police_chain               	2
+		common_military_gold              	2
+	}
+
+	riverbank_wedding
+	{
+		common_male01                     	10
+		common_female01                   	10
+		common_police_male01              	7
+		common_worker_male01              	3
+		common_male_suit                  	32
+		common_female_nurse01             	3
+		common_female_rural01_alt         	3
+		common_female_tanktop_jeans       	3
+		common_female_tanktop_jeans_rain  	3
+		common_female_tanktop_jeans_swamp 	3
+		common_female_tshirt_skirt        	3
+		common_female_tshirt_skirt_rain   	3
+		common_female_tshirt_skirt_swamp  	3
+		common_police_chain               	2
+		common_worker_male01_helmet       	4
+		common_female_tanktop_jeans_alt   	4
+		common_female_tshirt_skirt_alt    	4
+	}
+
+	redlight
+	{
+		common_male_rural01               	9
+		common_female_rural01             	10
+		common_military_male01            	6
+		common_worker_male01              	30
+		common_male02                     	3
+		common_male_baggagehandler_01     	3
+		common_male_baggagehandler_02     	3
+		common_male_biker                 	3
+		common_male_dressshirt_jeans      	3
+		common_male_formal                	3
+		common_male_parachutist           	3
+		common_military_gold              	2
+		common_male_biker_leather         	3
+		common_worker_male01_helmet       	4
+		common_male02_holiday             	3
+		common_male_dressshirt_jeans_alt  	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	redlight_bikers
+	{
+		common_male_rural01               	7
+		common_female_rural01             	11
+		common_military_male01            	7
+		common_worker_male01              	31
+		common_male_pilot                 	3
+		common_male_polo_jeans            	3
+		common_male_riot_iron             	3
+		common_male_roadcrew              	3
+		common_male_roadcrew_l4d1         	3
+		common_male_roadcrew_rain         	3
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_roadcrew_hivis        	4
+		common_male_pilot_tvjli           	4
+		common_male_polo_jeans_alt        	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	port
+	{
+		survivor_teenangst                	1
+		survivor_biker                    	1
+		survivor_manager                  	1
+		common_worker_male01              	16
+		common_female_rural01             	4
+		common_male01                     	20
+		common_male_rural01               	12
+		common_male_tanktop_jeans         	3
+		common_male_tanktop_jeans_rain    	3
+		common_male_tanktop_jeans_swamp   	3
+		common_male_tanktop_overalls      	3
+		common_male_tanktop_overalls_rain 	3
+		common_male_tanktop_overalls_swamp	3
+		common_male_tshirt_cargos         	3
+		common_worker_male01_helmet       	4
+		common_male_tanktop_jeans_worn    	4
+		common_male_tshirt_cargos_alt     	4
+		common_male_tanktop_overalls_alt  	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	river
+	{
+		common_male_rural01               	31
+		common_female_rural01             	12
+		common_military_male01            	7
+		common_worker_male01              	12
+		common_male_tshirt_cargos_swamp   	3
+		common_patient_male01             	3
+		common_patient_male01_l4d2        	3
+		common_police_chain               	3
+		common_surgeon_male01             	3
+		common_tsaagent_male01            	3
+		common_female01_suit              	3
+		common_female_baggagehandler_01   	3
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	riverintro
+	{
+		common_military_male01            	98
+		common_military_gold              	2
+	}
+
+	riverarena
+	{
+		common_male_rural01               	2
+		common_female_rural01             	2
+		common_military_male01            	46
+		common_worker_male01              	7
+		common_female_formal              	3
+		common_female_nurse01             	3
+		common_female_tanktop_jeans       	3
+		common_female_tanktop_jeans_rain  	3
+		common_female_tanktop_jeans_swamp 	3
+		common_female_tshirt_skirt        	3
+		common_female_tshirt_skirt_rain   	3
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_female_tanktop_jeans_alt   	4
+		common_female_tshirt_skirt_alt    	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	riveratrium
+	{
+		common_male01                     	11
+		common_female01                   	10
+		common_police_male01              	7
+		common_worker_male01              	3
+		common_male_suit                  	32
+		common_female_tshirt_skirt_swamp  	3
+		common_male02                     	3
+		common_male_baggagehandler_01     	3
+		common_male_baggagehandler_02     	3
+		common_male_biker                 	3
+		common_male_dressshirt_jeans      	3
+		common_male_formal                	3
+		common_police_chain               	2
+		common_male_biker_leather         	3
+		common_worker_male01_helmet       	4
+		common_male02_holiday             	3
+		common_male_dressshirt_jeans_alt  	4
+	}
+
+	riverfreighter
+	{
+		common_male_rural01               	7
+		common_female_rural01             	10
+		common_military_male01            	6
+		common_worker_male01              	30
+		common_male_parachutist           	3
+		common_male_pilot                 	3
+		common_male_polo_jeans            	3
+		common_male_riot_iron             	3
+		common_male_roadcrew              	3
+		common_male_roadcrew_l4d1         	3
+		common_male_roadcrew_rain         	3
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_roadcrew_hivis        	4
+		common_male_pilot_tvjli           	4
+		common_male_polo_jeans_alt        	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	riverport
+	{
+		common_worker_male01              	16
+		common_female_rural01             	6
+		common_male01                     	21
+		common_male_rural01               	12
+		common_male_tanktop_jeans         	3
+		common_male_tanktop_jeans_rain    	3
+		common_male_tanktop_jeans_swamp   	3
+		common_male_tanktop_overalls      	3
+		common_male_tanktop_overalls_rain 	3
+		common_male_tanktop_overalls_swamp	3
+		common_male_tshirt_cargos         	3
+		common_worker_male01_helmet       	4
+		common_male_tanktop_jeans_worn    	4
+		common_male_tshirt_cargos_alt     	4
+		common_male_tanktop_overalls_alt  	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	default_l4d1
+	{
+		common_male01                     	22
+		common_female01                   	18
+		common_police_male01              	10
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_suit                  	7
+		common_male_tshirt_cargos_alt     	3
+		common_male_tshirt_cargos_swamp   	3
+		common_patient_male01             	3
+		common_patient_male01_l4d2        	3
+		common_surgeon_male01             	3
+		common_tsaagent_male01            	3
+		common_female01_suit              	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+	}
+
+	defaultlots_l4d1
+	{
+		common_male01                     	15
+		common_female01                   	14
+		common_police_male01              	10
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_suit                  	7
+		common_female_baggagehandler_01   	3
+		common_female_formal              	3
+		common_female_nurse01             	3
+		common_female_rural01_alt         	3
+		common_female_tanktop_jeans       	3
+		common_female_tanktop_jeans_rain  	3
+		common_female_tanktop_jeans_swamp 	3
+		common_female_tshirt_skirt        	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_female_tanktop_jeans_alt   	4
+		common_female_tshirt_skirt_alt    	4
+	}
+
+	defaulturban_l4d1
+	{
+		common_male01                     	16
+		common_female01                   	14
+		common_police_male01              	7
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_suit                  	10
+		common_female_tshirt_skirt_rain   	3
+		common_female_tshirt_skirt_swamp  	3
+		common_male02                     	3
+		common_male_baggagehandler_01     	3
+		common_male_baggagehandler_02     	3
+		common_male_biker                 	3
+		common_male_dressshirt_jeans      	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_male_biker_leather         	3
+		common_worker_male01_helmet       	4
+		common_male02_holiday             	3
+		common_male_dressshirt_jeans_alt  	4
+	}
+
+	police_l4d1
+	{
+		common_male01                     	10
+		common_female01                   	14
+		common_military_male01            	7
+		common_police_male01              	32
+		common_male_formal                	3
+		common_male_parachutist           	3
+		common_male_pilot                 	3
+		common_male_polo_jeans            	3
+		common_male_riot_iron             	3
+		common_male_roadcrew              	3
+		common_male_roadcrew_l4d1         	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_male_roadcrew_hivis        	4
+		common_male_pilot_tvjli           	4
+		common_male_polo_jeans_alt        	4
+	}
+
+	constructionzone_l4d1
+	{
+		common_male01                     	15
+		common_female01                   	14
+		common_police_male01              	7
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_suit                  	10
+		common_male_roadcrew_rain         	3
+		common_male_rural01_alt           	3
+		common_male_tanktop_jeans         	3
+		common_male_tanktop_jeans_rain    	3
+		common_male_tanktop_jeans_swamp   	3
+		common_male_tanktop_overalls      	3
+		common_male_tanktop_overalls_rain 	3
+		common_male_tanktop_overalls_swamp	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_tanktop_jeans_worn    	4
+		common_male_tanktop_overalls_alt  	4
+	}
+
+	maintenance_l4d1
+	{
+		common_male01                     	17
+		common_female01                   	14
+		common_military_male01            	14
+		common_worker_male01              	24
+		common_male_tshirt_cargos         	3
+		common_male_tshirt_cargos_swamp   	3
+		common_patient_male01             	3
+		common_patient_male01_l4d2        	3
+		common_police_chain               	3
+		common_surgeon_male01             	3
+		common_tsaagent_male01            	3
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_tshirt_cargos_alt     	4
+	}
+
+	maintenancesewer_l4d1
+	{
+		common_male01                     	13
+		common_female01                   	12
+		common_military_male01            	12
+		common_worker_male01              	22
+		common_female01_suit              	3
+		common_female_baggagehandler_01   	3
+		common_female_formal              	3
+		common_female_nurse01             	3
+		common_female_rural01_alt         	3
+		common_female_tanktop_jeans       	3
+		common_female_tanktop_jeans_rain  	3
+		common_female_tanktop_jeans_swamp 	3
+		common_female_tshirt_skirt        	3
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_female_tanktop_jeans_alt   	4
+		common_female_tshirt_skirt_alt    	4
+	}
+
+	maintenancestreet_l4d1
+	{
+		common_male01                     	14
+		common_female01                   	12
+		common_military_male01            	12
+		common_worker_male01              	22
+		common_female_tshirt_skirt_alt    	3
+		common_female_tshirt_skirt_rain   	3
+		common_female_tshirt_skirt_swamp  	3
+		common_male02                     	3
+		common_male_baggagehandler_01     	3
+		common_male_baggagehandler_02     	3
+		common_male_biker                 	3
+		common_male_dressshirt_jeans      	3
+		common_military_gold              	2
+		common_male_biker_leather         	3
+		common_worker_male01_helmet       	4
+		common_male02_holiday             	3
+		common_male_dressshirt_jeans_alt  	4
+	}
+
+	hospitalgrounds_l4d1
+	{
+		common_male01                     	8
+		common_female01                   	11
+		common_police_male01              	10
+		common_military_male01            	10
+		common_worker_male01              	10
+		common_male_suit                  	10
+		common_male_dressshirt_jeans_alt  	3
+		common_male_formal                	3
+		common_male_parachutist           	3
+		common_male_pilot                 	3
+		common_male_polo_jeans            	3
+		common_male_riot_iron             	3
+		common_male_roadcrew              	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_roadcrew_hivis        	4
+		common_male_pilot_tvjli           	4
+		common_male_polo_jeans_alt        	4
+	}
+
+	hospital_l4d1
+	{
+		common_male01                     	9
+		common_patient_male01             	27
+		common_worker_male01              	10
+		common_female_nurse01             	11
+		common_surgeon_male01             	7
+		common_male_roadcrew_l4d1         	3
+		common_male_roadcrew_rain         	3
+		common_male_rural01_alt           	3
+		common_male_tanktop_jeans         	3
+		common_male_tanktop_jeans_rain    	3
+		common_male_tanktop_jeans_swamp   	3
+		common_male_tanktop_overalls      	3
+		common_male_tanktop_overalls_rain 	3
+		common_worker_male01_helmet       	4
+		common_male_tanktop_jeans_worn    	4
+		common_male_tanktop_overalls_alt  	4
+	}
+
+	hospitalconstruction_l4d1
+	{
+		common_patient_male01             	13
+		common_worker_male01              	20
+		common_female_nurse01             	14
+		common_surgeon_male01             	7
+		common_male01                     	14
+		common_male_tanktop_overalls_swamp	3
+		common_male_tshirt_cargos         	3
+		common_male_tshirt_cargos_swamp   	3
+		common_military_gold              	3
+		common_patient_male01_l4d2        	3
+		common_police_chain               	3
+		common_tsaagent_male01            	3
+		common_female01_suit              	3
+		common_worker_male01_helmet       	4
+		common_male_tshirt_cargos_alt     	4
+	}
+
+	hospitalrooftop_l4d1
+	{
+		common_male01                     	9
+		common_patient_male01             	27
+		common_worker_male01              	10
+		common_female_nurse01             	11
+		common_surgeon_male01             	7
+		common_female_baggagehandler_01   	3
+		common_female_formal              	3
+		common_female_rural01_alt         	3
+		common_female_tanktop_jeans       	3
+		common_female_tanktop_jeans_rain  	3
+		common_female_tanktop_jeans_swamp 	3
+		common_female_tshirt_skirt        	3
+		common_female_tshirt_skirt_rain   	3
+		common_worker_male01_helmet       	4
+		common_female_tanktop_jeans_alt   	4
+		common_female_tshirt_skirt_alt    	4
+	}
+
+	airport_l4d1
+	{
+		common_female01                   	10
+		common_male_suit                  	11
+		common_worker_male01              	10
+		common_male_baggagehandler_01     	10
+		common_tsaagent_male01            	10
+		common_male_pilot                 	10
+		common_female_tshirt_skirt_swamp  	3
+		common_male02                     	3
+		common_male_baggagehandler_02     	3
+		common_male_biker                 	3
+		common_male_dressshirt_jeans      	3
+		common_male_formal                	3
+		common_male_parachutist           	3
+		common_male_biker_leather         	3
+		common_worker_male01_helmet       	4
+		common_male_pilot_tvjli           	4
+		common_male02_holiday             	3
+		common_male_dressshirt_jeans_alt  	4
+	}
+
+	airportfinale_l4d1
+	{
+		common_female01                   	3
+		common_male_suit                  	7
+		common_worker_male01              	7
+		common_male_baggagehandler_01     	18
+		common_tsaagent_male01            	12
+		common_male_pilot                 	12
+		common_male_polo_jeans            	3
+		common_male_riot_iron             	3
+		common_male_roadcrew              	3
+		common_male_roadcrew_l4d1         	3
+		common_male_roadcrew_rain         	3
+		common_male_rural01_alt           	3
+		common_male_tanktop_jeans         	3
+		common_worker_male01_helmet       	4
+		common_male_roadcrew_hivis        	4
+		common_male_pilot_tvjli           	4
+		common_male_tanktop_jeans_worn    	4
+		common_male_polo_jeans_alt        	4
+	}
+
+	defaultrural_l4d1
+	{
+		common_male_rural01               	23
+		common_female_rural01             	10
+		common_police_male01              	5
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_tanktop_jeans_rain    	3
+		common_male_tanktop_jeans_swamp   	3
+		common_male_tanktop_jeans_worn    	3
+		common_male_tanktop_overalls      	3
+		common_male_tanktop_overalls_rain 	3
+		common_male_tanktop_overalls_swamp	3
+		common_male_tshirt_cargos         	3
+		common_male_tshirt_cargos_swamp   	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_tshirt_cargos_alt     	4
+		common_male_tanktop_overalls_alt  	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	ruralsewer_l4d1
+	{
+		common_male_rural01               	32
+		common_female_rural01             	12
+		common_police_male01              	7
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_patient_male01_l4d2        	3
+		common_female01_suit              	3
+		common_female_baggagehandler_01   	3
+		common_female_formal              	3
+		common_female_tanktop_jeans       	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_female_tanktop_jeans_alt   	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	ruralstreet_l4d1
+	{
+		common_male_rural01               	22
+		common_female_rural01             	9
+		common_police_male01              	5
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_female_tanktop_jeans_rain  	3
+		common_female_tanktop_jeans_swamp 	3
+		common_female_tshirt_skirt        	3
+		common_female_tshirt_skirt_rain   	3
+		common_female_tshirt_skirt_swamp  	3
+		common_male02                     	3
+		common_male_baggagehandler_02     	3
+		common_male_biker                 	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_male_biker_leather         	3
+		common_worker_male01_helmet       	4
+		common_male02_holiday             	3
+		common_female_tshirt_skirt_alt    	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	river_l4d1
+	{
+		common_male_rural01               	23
+		common_female_rural01             	10
+		common_military_male01            	5
+		common_worker_male01              	12
+		common_male_biker_leather         	3
+		common_male_dressshirt_jeans      	3
+		common_male_formal                	3
+		common_male_parachutist           	3
+		common_male_pilot_tvjli           	3
+		common_male_polo_jeans            	3
+		common_male_riot_iron             	3
+		common_male_roadcrew              	3
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_roadcrew_hivis        	4
+		common_male_dressshirt_jeans_alt  	4
+		common_male_polo_jeans_alt        	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	riverintro_l4d1
+	{
+		common_military_male01            	98
+		common_military_gold              	2
+	}
+
+	riverarena_l4d1
+	{
+		common_male_rural01               	2
+		common_female_rural01             	2
+		common_military_male01            	46
+		common_worker_male01              	7
+		common_male_roadcrew_hivis        	3
+		common_male_roadcrew_l4d1         	3
+		common_male_roadcrew_rain         	3
+		common_male_tanktop_jeans         	3
+		common_male_tanktop_jeans_rain    	3
+		common_male_tanktop_jeans_swamp   	3
+		common_male_tanktop_overalls      	3
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_tanktop_jeans_worn    	4
+		common_male_tanktop_overalls_alt  	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	riveratrium_l4d1
+	{
+		common_male01                     	14
+		common_female01                   	11
+		common_police_male01              	7
+		common_worker_male01              	3
+		common_male_suit                  	34
+		common_male_tanktop_overalls_rain 	3
+		common_male_tanktop_overalls_swamp	3
+		common_male_tshirt_cargos         	3
+		common_male_tshirt_cargos_swamp   	3
+		common_military_gold              	3
+		common_patient_male01_l4d2        	3
+		common_female01_suit              	3
+		common_police_chain               	2
+		common_worker_male01_helmet       	4
+		common_male_tshirt_cargos_alt     	4
+	}
+
+	riverfreighter_l4d1
+	{
+		common_male_rural01               	8
+		common_female_rural01             	11
+		common_military_male01            	7
+		common_worker_male01              	31
+		common_female_baggagehandler_01   	3
+		common_female_formal              	3
+		common_female_tanktop_jeans       	3
+		common_female_tanktop_jeans_rain  	3
+		common_female_tanktop_jeans_swamp 	3
+		common_female_tshirt_skirt        	3
+		common_female_tshirt_skirt_rain   	3
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_female_tanktop_jeans_alt   	4
+		common_female_tshirt_skirt_alt    	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	riverport_l4d1
+	{
+		common_worker_male01              	18
+		common_female_rural01             	6
+		common_male01                     	21
+		common_male_rural01               	12
+		common_female_tshirt_skirt_swamp  	3
+		common_male02                     	3
+		common_male_baggagehandler_01     	3
+		common_male_baggagehandler_02     	3
+		common_male_biker                 	3
+		common_male_dressshirt_jeans      	3
+		common_male_formal                	3
+		common_male_biker_leather         	3
+		common_worker_male01_helmet       	4
+		common_male02_holiday             	3
+		common_male_dressshirt_jeans_alt  	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	junkyardrural_l4d1
+	{
+		common_male01                     	6
+		common_female01                   	9
+		common_police_male01              	4
+		common_military_male01            	4
+		common_worker_male01              	7
+		common_male_suit                  	7
+		common_male_rural01               	7
+		common_female_rural01             	7
+		common_male_parachutist           	3
+		common_male_pilot                 	3
+		common_male_polo_jeans            	3
+		common_male_riot_iron             	3
+		common_male_roadcrew              	3
+		common_male_roadcrew_l4d1         	3
+		common_male_roadcrew_rain         	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_roadcrew_hivis        	4
+		common_male_pilot_tvjli           	4
+		common_male_polo_jeans_alt        	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	junkyard_l4d1
+	{
+		common_male01                     	6
+		common_female01                   	9
+		common_police_male01              	4
+		common_military_male01            	4
+		common_worker_male01              	7
+		common_male_suit                  	7
+		common_male_rural01               	7
+		common_female_rural01             	7
+		common_male_tanktop_jeans         	3
+		common_male_tanktop_jeans_rain    	3
+		common_male_tanktop_jeans_swamp   	3
+		common_male_tanktop_overalls      	3
+		common_male_tanktop_overalls_rain 	3
+		common_male_tanktop_overalls_swamp	3
+		common_male_tshirt_cargos         	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_tanktop_jeans_worn    	4
+		common_male_tshirt_cargos_alt     	4
+		common_male_tanktop_overalls_alt  	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	junkyardroad_l4d1
+	{
+		common_male01                     	11
+		common_female01                   	11
+		common_police_male01              	6
+		common_military_male01            	7
+		common_worker_male01              	7
+		common_male_suit                  	7
+		common_male_rural01               	7
+		common_female_rural01             	7
+		common_male_tshirt_cargos_alt     	3
+		common_male_tshirt_cargos_swamp   	3
+		common_patient_male01             	3
+		common_patient_male01_l4d2        	3
+		common_surgeon_male01             	3
+		common_tsaagent_male01            	3
+		common_female01_suit              	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	estuary_l4d1
+	{
+		common_male01                     	7
+		common_female01                   	10
+		common_police_male01              	5
+		common_military_male01            	5
+		common_worker_male01              	7
+		common_male_suit                  	7
+		common_male_rural01               	7
+		common_female_rural01             	7
+		common_female_baggagehandler_01   	3
+		common_female_formal              	3
+		common_female_nurse01             	3
+		common_female_tanktop_jeans       	3
+		common_female_tanktop_jeans_rain  	3
+		common_female_tanktop_jeans_swamp 	3
+		common_female_tshirt_skirt        	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_female_tanktop_jeans_alt   	4
+		common_female_tshirt_skirt_alt    	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	lighthouserural_l4d1
+	{
+		common_male01                     	8
+		common_female01                   	9
+		common_police_male01              	4
+		common_military_male01            	4
+		common_worker_male01              	7
+		common_male_suit                  	7
+		common_male_rural01               	7
+		common_female_rural01             	7
+		common_female_tshirt_skirt_rain   	3
+		common_female_tshirt_skirt_swamp  	3
+		common_male02                     	3
+		common_male_baggagehandler_01     	3
+		common_male_baggagehandler_02     	3
+		common_male_biker                 	3
+		common_male_dressshirt_jeans      	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_male_biker_leather         	3
+		common_worker_male01_helmet       	4
+		common_male02_holiday             	3
+		common_male_dressshirt_jeans_alt  	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+	lighthouse_l4d1
+	{
+		common_male01                     	6
+		common_female01                   	9
+		common_police_male01              	4
+		common_military_male01            	4
+		common_worker_male01              	7
+		common_male_suit                  	7
+		common_male_rural01               	7
+		common_female_rural01             	7
+		common_male_formal                	3
+		common_male_parachutist           	3
+		common_male_pilot                 	3
+		common_male_polo_jeans            	3
+		common_male_riot_iron             	3
+		common_male_roadcrew              	3
+		common_male_roadcrew_l4d1         	3
+		common_police_chain               	2
+		common_military_gold              	2
+		common_worker_male01_helmet       	4
+		common_male_roadcrew_hivis        	4
+		common_male_pilot_tvjli           	4
+		common_male_polo_jeans_alt        	4
+		common_female_rural01_alt         	4
+		common_male_rural01_alt           	4
+	}
+
+}
