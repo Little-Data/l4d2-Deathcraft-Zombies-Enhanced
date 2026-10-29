@@ -31,7 +31,4 @@ $envmaptint "[.22 .12 .07]"
 $envmap env_cubemap
 	$envmapmask "models\infected\zombie\tvjli"
 }
-$halflambert 1
-$phong 0
-"GPU>=2?$phong" 1
 }

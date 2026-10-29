@@ -1,0 +1,80 @@
+﻿模型,皮肤,类型,顶点数,头盔层,刷新段数,预览图
+cim_faceplate,（道具模型，无贴图）,道具,0,-,0,
+cim_faceplate_test,（道具模型，无贴图）,道具,0,-,0,
+cim_fallen_survivor_pocket01,（道具模型，无贴图）,道具,0,-,0,
+cim_fallen_survivor_pocket01_test,（道具模型，无贴图）,道具,0,-,0,
+cim_fallen_survivor_pocket02,（道具模型，无贴图）,道具,0,-,0,
+cim_fallen_survivor_pocket02_test,（道具模型，无贴图）,道具,0,-,0,
+cim_fallen_survivor_pocket03,（道具模型，无贴图）,道具,0,-,0,
+cim_fallen_survivor_pocket03_test,（道具模型，无贴图）,道具,0,-,0,
+cim_riot_faceplate,（道具模型，无贴图）,道具,0,-,0,
+common_female01,shirt6zom,普通,264,无,155,preview/common_female01.png
+common_female01_suit,suit,普通,264,无,62,preview/common_female01_suit.png
+common_female_baggagehandler_01,baggagehandler_01,普通,264,无,61,preview/common_female_baggagehandler_01.png
+common_female_formal,smart1zom,普通,264,无,61,preview/common_female_formal.png
+common_female_nurse01,labratzom,普通,264,无,61,preview/common_female_nurse01.png
+common_female_rural01,shirt2zom,普通,264,无,118,preview/common_female_rural01.png
+common_female_rural01_alt,zombiedaveskin_1910445,普通,264,无,149,preview/common_female_rural01_alt.png
+common_female_tanktop_jeans,shirt7zom,普通,264,无,61,preview/common_female_tanktop_jeans.png
+common_female_tanktop_jeans_alt,skin_120407070452110505,普通,264,无,86,preview/common_female_tanktop_jeans_alt.png
+common_female_tanktop_jeans_rain,zombieskin,普通,264,无,61,preview/common_female_tanktop_jeans_rain.png
+common_female_tanktop_jeans_swamp,zombie_2046216,普通,264,无,61,preview/common_female_tanktop_jeans_swamp.png
+common_female_tshirt_skirt,pigman zomb,普通,264,无,61,preview/common_female_tshirt_skirt.png
+common_female_tshirt_skirt_alt,zombie,普通,264,无,81,preview/common_female_tshirt_skirt_alt.png
+common_female_tshirt_skirt_rain,dyrct,普通,264,无,61,preview/common_female_tshirt_skirt_rain.png
+common_female_tshirt_skirt_swamp,zombie1,普通,264,无,61,preview/common_female_tshirt_skirt_swamp.png
+common_male01,blockdude,普通,264,无,169,preview/common_male01.png
+common_male02,blockdude1,普通,288,有,65,preview/common_male02.png
+common_male02_holiday,holidayzombie,普通,288,有,87,preview/common_male02_holiday.png
+common_male_baggagehandler_01,constr zomb,普通,288,有,61,preview/common_male_baggagehandler_01.png
+common_male_baggagehandler_02,baggagehandler2,普通,288,有,61,preview/common_male_baggagehandler_02.png
+common_male_biker,pigzombie,普通,288,有,62,preview/common_male_biker.png
+common_male_biker_leather,leaarmzom,普通,288,有,70,preview/common_male_biker_leather.png
+common_male_ceda,hazmatzom,特殊,264,无,9,preview/common_male_ceda.png
+common_male_ceda_l4d1,hazmatzom2,特殊,264,无,5,preview/common_male_ceda_l4d1.png
+common_male_clown,armour chai,特殊,288,有,3,preview/common_male_clown.png
+common_male_dressshirt_jeans,shirt5zom,普通,264,无,61,preview/common_male_dressshirt_jeans.png
+common_male_dressshirt_jeans_alt,skin_120406120432108416,普通,264,无,79,preview/common_male_dressshirt_jeans_alt.png
+common_male_fallen_survivor,survivzom,特殊,264,无,2,preview/common_male_fallen_survivor.png
+common_male_fallen_survivor_l4d1,dimarmzom,特殊,264,无,6,preview/common_male_fallen_survivor_l4d1.png
+common_male_formal,smart3zom,普通,264,无,61,preview/common_male_formal.png
+common_male_jimmy,jimmy,特殊,264,无,3,preview/common_male_jimmy.png
+common_male_mud,armour leat,特殊,288,有,7,preview/common_male_mud.png
+common_male_mud_l4d1,zombie2,特殊,288,有,5,preview/common_male_mud_l4d1.png
+common_male_parachutist,jacket zomb,普通,264,无,61,preview/common_male_parachutist.png
+common_male_pilot,zombiesuit,普通,288,有,61,preview/common_male_pilot.png
+common_male_pilot_tvjli,tvjli,普通,288,有,74,preview/common_male_pilot_tvjli.png
+common_male_polo_jeans,shirt9zom,普通,264,无,61,preview/common_male_polo_jeans.png
+common_male_polo_jeans_alt,zombie_1938545,普通,264,无,68,preview/common_male_polo_jeans_alt.png
+common_male_riot,Zombie Swat,特殊,288,有,8,preview/common_male_riot.png
+common_male_riot_gold,armour gold,特殊（变体）,288,有,7,preview/common_male_riot_gold.png
+common_male_riot_iron,iroarmzom,特殊（变体）,288,有,66,preview/common_male_riot_iron.png
+common_male_riot_l4d1,armour iron,特殊,288,有,4,preview/common_male_riot_l4d1.png
+common_male_roadcrew,jackt2zom,普通,288,有,62,preview/common_male_roadcrew.png
+common_male_roadcrew_hivis,sketch-10_1965742,普通,288,有,78,preview/common_male_roadcrew_hivis.png
+common_male_roadcrew_l4d1,jackt2zom_l4d1,普通,288,有,62,preview/common_male_roadcrew_l4d1.png
+common_male_roadcrew_rain,jackt3zom,普通,264,无,62,preview/common_male_roadcrew_rain.png
+common_male_rural01,shirt3zom,普通,264,无,117,preview/common_male_rural01.png
+common_male_rural01_alt,7tesr,普通,264,无,141,preview/common_male_rural01_alt.png
+common_male_suit,smart2zom,普通,264,无,116,preview/common_male_suit.png
+common_male_tanktop_jeans,shirt1zom,普通,264,无,61,preview/common_male_tanktop_jeans.png
+common_male_tanktop_jeans_rain,jacketzom,普通,264,无,61,preview/common_male_tanktop_jeans_rain.png
+common_male_tanktop_jeans_swamp,zombie_1917942,普通,264,无,61,preview/common_male_tanktop_jeans_swamp.png
+common_male_tanktop_jeans_worn,grrr1,普通,264,无,93,preview/common_male_tanktop_jeans_worn.png
+common_male_tanktop_overalls,shirt8zom,普通,264,无,61,preview/common_male_tanktop_overalls.png
+common_male_tanktop_overalls_alt,skin_120421120447166716,普通,264,无,69,preview/common_male_tanktop_overalls_alt.png
+common_male_tanktop_overalls_rain,boxzombie,普通,264,无,61,preview/common_male_tanktop_overalls_rain.png
+common_male_tanktop_overalls_swamp,kt0dt,普通,264,无,61,preview/common_male_tanktop_overalls_swamp.png
+common_male_tshirt_cargos,shirt4zom,普通,264,无,61,preview/common_male_tshirt_cargos.png
+common_male_tshirt_cargos_alt,sketch-1_2028699,普通,264,无,81,preview/common_male_tshirt_cargos_alt.png
+common_male_tshirt_cargos_swamp,shirt4zom,普通,264,无,61,preview/common_male_tshirt_cargos_swamp.png
+common_military_gold,golarmzom,特殊（变体）,288,有,215,preview/common_military_gold.png
+common_military_male01,mitaryzom,普通,432,有,199,preview/common_military_male01.png
+common_patient_male01,patient,普通,264,无,62,preview/common_patient_male01.png
+common_patient_male01_l4d2,zombie_1861000,普通,264,无,61,preview/common_patient_male01_l4d2.png
+common_police_chain,chaarmzom,特殊（变体）,288,有,176,preview/common_police_chain.png
+common_police_male01,armorgzom,普通,288,有,155,preview/common_police_male01.png
+common_surgeon_male01,laboratoryzombie,普通,264,无,61,preview/common_surgeon_male01.png
+common_tsaagent_male01,policezom,普通,288,有,60,preview/common_tsaagent_male01.png
+common_worker_male01,zombieworker,普通,288,有,233,preview/common_worker_male01.png
+common_worker_male01_helmet,zombiehelmet,普通,288,有,236,preview/common_worker_male01_helmet.png

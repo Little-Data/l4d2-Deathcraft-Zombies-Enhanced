@@ -568,9 +568,6 @@ $envmaptint "[.22 .12 .07]"
 $envmap env_cubemap
 \t$envmapmask "models\\infected\\zombie\\{name}"
 }}
-$halflambert 1
-$phong 0
-"GPU>=2?$phong" 1
 }}
 '''
 
